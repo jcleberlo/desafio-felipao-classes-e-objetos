@@ -26,10 +26,10 @@ class heroi {
     }
   }
 
-let heroiMago = new heroi ("Antonio" , 15 , "mago" , "magia")
-let heroiGuerreiro = new heroi ("José" , 16 , "guerreiro" , "espada")
-let heroiMonge = new heroi ("Francisco" , 17 , "monge", "artes marciais")
-let heroiNinja = new heroi ("Raimundo" , 14 , "ninja" , "shuriken")
+let heroiMago = new heroi ("Antonio" , 15 , "mago")
+let heroiGuerreiro = new heroi ("José" , 16 , "guerreiro")
+let heroiMonge = new heroi ("Francisco" , 17 , "monge")
+let heroiNinja = new heroi ("Raimundo" , 14 , "ninja")
 
 heroiMago.atacar ()
 heroiGuerreiro.atacar ()
